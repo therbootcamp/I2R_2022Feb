@@ -1,6 +1,6 @@
 ### R Skript zu "Assignments"
 ### Kurs "Einführung in die moderne Datenanalyse mit R"
-### Datum: Oktober 2021
+### Datum: Februar 2022
 ### Autor: The R Bootcamp
 
 
