@@ -1,2 +1,5 @@
-# I2R_2022Feb
-Einführung in die moderne Datenanalyse mit R
+# Applied ML @ Basel January 2019
+
+Notes (aka todo):
+
+Everything!
