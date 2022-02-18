@@ -64,32 +64,10 @@ baselers <- read_csv("https://raw.githubusercontent.com/therbootcamp/baselers/ma
 
 #  Die Datenrevolution
 
-.pull-left4[
-
-<i>"Fuel of the future - Data is giving rise to a new economy."</i><br>
-
-The Economist, May 2017
-<br><br>
-
-<i>"Wie Big Data die Finanzmärkte verändern könnte"</i><br>
-
-NZZ, August 2018
-<br><br>
-
-<i>"Machine learning will be the engine of global growth."</i><br>
-
-Financial times, July 2018
-
-]
-
-.pull-right55[
 
 <p align = "center">
-  <img src="image/dataworld_sm.png" height = 375px><br>
-  <font style="font-size:10px">from <a href="https://www.shutterstock.com/video/clip-19206613-world-map-shining-flying-stars-particles-create">shutterstock.com</a></font>
-</p>
-
-]
+  <img src="image/oil.jpeg" height = 450px><br>
+  <font style="font-size:10px">from <a href="https://www.economist.com/leaders/2017/05/06/the-worlds-most-valuable-resource-is-no-longer-oil-but-data">economist.com</a></font>
 
 ---
 
