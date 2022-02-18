@@ -877,7 +877,7 @@ Das Netz ist vll. der beste Ort für Informationen über R.
       <font style="font-size:20px;weight:700"><br>Reporting mit R<br><br></font><br>
       <br>
       <img src="https://therbootcamp.github.io/img/courses/4.png" height="180px" style="border-radius:50%;border:10px solid #E9ECEF"></img><br><br>
-      <high>tba<br>2022</high><br><br><br><br>
+      <high>Jun 10<br>2022</high><br><br><br><br>
       </a>
     </p>
   </td>
