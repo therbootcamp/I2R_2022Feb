@@ -360,7 +360,7 @@ install.packages("tidyverse")
 library(tidyverse)
 ```
 
-<p align="left"><img src="image/tidyverse.png" height="180"></p>
+<p align="left"><img src="image/tidyverse_load.png" height="180"></p>
 ]
 ---
 
